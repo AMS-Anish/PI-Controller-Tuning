@@ -1,0 +1,14 @@
+probe2
+
+0-20 : Kp 0.92, Ki 0.49 - good
+20-0 : Kp 0.98, Ki 1.62 - good
+
+0- -10: Kp 1.05, Ki 0.23 - slow/overshoot
+-10 - 0: Kp 0.57, Ki 0.083 - very slow
+
+0- -10: Kp 0.735, Ki 0.23 - almost same as last try
+-10 - 0: Kp 0.78, Ki 0.43 - better
+
+0-20 : Kp 1.02, Ki 1.71 - good
+20-0 : Kp 0.71, Ki 1.16 - good
+
