@@ -1,0 +1,6 @@
+Diameter:  0 mm 	Länge:  79,45 mm 
+Cable:Hard Glue White
+Force Applied:20N
+Kp:0,97
+Ki:2,0
+Test:6.2.1 Tensile Test 2

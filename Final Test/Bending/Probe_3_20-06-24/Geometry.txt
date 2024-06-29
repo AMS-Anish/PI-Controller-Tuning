@@ -1,0 +1,4 @@
+Bendig with Compressive kp and ki
+Diameter:  0 mm 	Länge:  0 mm 
+0-40 Kp=1,1 Ki=2,0
+40-0 Kp=1,1 Ki=2,0

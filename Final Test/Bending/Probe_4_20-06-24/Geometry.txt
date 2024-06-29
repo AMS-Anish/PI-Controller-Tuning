@@ -1,0 +1,4 @@
+Bendig with Tensile kp and ki from 0-40 and the with compressive Kp and Ki from 40 -0
+Diameter:  0 mm 	Länge:  0 mm 
+0-40 Kp=0,98 Ki=2,0
+40-0 Kp=1,1 Ki=2,0

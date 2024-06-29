@@ -1,0 +1,6 @@
+Bendig with 3 kp and ki
+Diameter:  0 mm 	Länge:  0 mm 
+0-39 Kp=0,98 Ki=1,62
+39-40 Kp=1,5 Ki=1,62
+40-39 Kp=1,5 Ki=1,62
+39-0 Kp=0,98 Ki=1,62
